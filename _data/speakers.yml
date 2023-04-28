@@ -1,17 +1,29 @@
-- name: Yarin Gal
-  url: http://www.cs.ox.ac.uk/people/yarin.gal/website/
-  affiliation: University of Oxford, UK
-  img: yarin-gal.jpg
+- name: Zeynep Akata
+  url: https://www.eml-unitue.de/people/zeynep-akata
+  affiliation: University of Tuebingen, Germany
+  img: zeynep.jpg
   abstract: TBA
   
-- name: Alex Kendall
-  url: https://alexgkendall.com/
-  affiliation: Wayve
-  img: alex-kendall.jpg
+- name: Eric Nalisnick
+  url: https://enalisnick.github.io/
+  affiliation: University of Amsterdam, Netherlands
+  img: nalisnick.jpg
   abstract: TBA
 
-- name: Sharon Yixuan Li
-  url: https://pages.cs.wisc.edu/~sharonli/
-  affiliation: University of Wisconsin-Madison, USA
-  img: yixuanli.jpg
+- name: Dan Hendrycks
+  url: https://people.eecs.berkeley.edu/~hendrycks/
+  affiliation: University of California, Berkeley, USA
+  img: hendrycks.jpg
+  abstract: TBA
+
+- name: Fatma Guney
+  url: https://mysite.ku.edu.tr/fguney/
+  affiliation: University of Koc, Turkey
+  img: fatma.jpg
+  abstract: TBA
+
+- name: Janis Postels
+  url: https://janispostels.github.io/
+  affiliation: ETH Zurich and Google, Switzerland
+  img: janispostels.jpg
   abstract: TBA

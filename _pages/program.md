@@ -4,10 +4,10 @@ permalink: /program/
 title: Program
 ---
 
-<br/>
-The workshop will be held in Salon E of the [David InterContinental Tel Aviv](https://goo.gl/maps/S4q2WqLPXCvdD6K66) hotel.
-<br/>
-<table class="table table-striped">
+
+# TBD
+
+<!-- <table class="table table-striped">
     <thead>
     <tr>
         <th scope="col">Time</th>
@@ -57,4 +57,4 @@ The workshop will be held in Salon E of the [David InterContinental Tel Aviv](ht
         <td>Poster Session</td>
     </tr>
     </tbody>
-</table>
+</table> -->

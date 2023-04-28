@@ -4,24 +4,27 @@ permalink: /papers/
 title: Accepted Papers
 ---
 
-# Accepted Full Papers
+# TBD
 
-<ul>
+
+<!-- # Accepted Full Papers -->
+
+<!-- <ul>
 {% for item in site.data.papers  %}
 {% if item.type == "full" %}
   <li><strong>{{ item.title }}</strong><br/>
   <small><i>{{ item.authors }}</i></small></li>
 {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
 
-# Accepted Extended Abstracts
+<!-- # Accepted Extended Abstracts -->
 
-<ul>
+<!-- <ul>
 {% for item in site.data.papers  %}
 {% if item.type == "abstract" %}
   <li><strong>{{ item.title }}</strong><br/>
   <small><i>{{ item.authors }}</i></small></li>
 {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
