@@ -23,7 +23,6 @@ The participants are expected to submit their predictions to the CodaLab server 
 
 <h2>Important Dates</h2>
 
-
 <p>All times are end of day AOE.</p>
 
 <ul>
@@ -37,6 +36,7 @@ The participants are expected to submit their predictions to the CodaLab server 
 </ul>
 
 
+
 <h2>Organizers</h2>
 <ul>
 
@@ -47,3 +47,8 @@ The participants are expected to submit their predictions to the CodaLab server 
 {% endfor %}
 
 </ul>
+
+<h2>Acknowledgments</h2>
+
+<p>We gratefully acknowledge the support of DATAIA Paris-Saclay institute and AID Project ACoCaTherm which supported the creation of the dataset.</p>
+
