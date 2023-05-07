@@ -10,15 +10,17 @@ title:
 
 <h2>Introduction</h2>
 
-Predictive uncertainty estimation is essential for safe deployment of Deep Neural Networks in real-world autonomous systems. However, disentangling the different types and sources of uncertainty is nontrivial for most datasets, especially since there is no ground truth for uncertainty. In addition, while adverse weather conditions of varying intensities can disrupt neural network predictions, they are usually under-represented in both training and test sets in public datasets. We propose the <em>MUAD Uncertainty Estimation for Semantic Segmentation Challenge</em>.
+MUAD (Multiple Uncertainties for Autonomous Driving) is a synthetic dataset for autonomous driving with multiple uncertainty types and tasks. The goal of this dataset is to better evaluate the uncertainty estimation performance of the models under simulated complex outdoor scenarios. Uncertainty estimation is crucial in autonomous driving. Proven by much research, the deep neural networks are uncalibrated: the model's decisions are often overconfident. In this case, a good uncertainty estimation approach can help the decision-making more robust and trustworthy.
 
-The challenge is based on MUAD (Multiple Uncertainties for Autonomous Driving) dataset. More information about the dataset is available at <strong>[MUAD website](https://muad-dataset.github.io/)</strong>.
+This challenge aims to evaluate the uncertainty estimation performance of the semantic segmentation models. The participants will download the training and validation sets (containing the RGB images and the corresponding ground truth maps) as well as the test set (only the RGB images are provided), and design and train the models. Then ones should provide the confidence maps which can provide enough information to help the decision-maker to find out the Out-Of-Distribution objects in the test set images. Some of the test set images have different levels of weather conditions (rain, fog, snow), which will be challenging to the robustness of the models.
+
+The MUAD challenge link: <strong>[click here](https://codalab.lisn.upsaclay.fr/competitions/8007)</strong>.
+
+More information about the MUAD dataset and its download link are available at <strong>[MUAD website](https://muad-dataset.github.io/)</strong>. 
 
 
 <h2>Submission & Evaluation</h2>
-The MUAD challenge is now available on CodaLab here is the <strong>[Link](https://codalab.lisn.upsaclay.fr/competitions/8007)</strong> to the challenge.
-
-The participants are expected to submit their predictions to the CodaLab server for model evaluation. In order to make a successful submission and evaluation, you need to follow the instructions including: registration, file preparation, submission & evaluation, and result view.
+The participants are expected to submit their predictions to the CodaLab server for model evaluation. In order to make a successful submission and evaluation, you need to follow the instructions, including registration, file preparation, submission & evaluation, and result view. More details can be found on the challenge page on CodaLab.
 
 
 <h2>Important Dates</h2>
