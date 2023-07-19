@@ -22,6 +22,7 @@ More information about the MUAD dataset and its download link are available at <
 <h2>Submission & Evaluation</h2>
 The participants are expected to submit their predictions to the CodaLab server for model evaluation. In order to make a successful submission and evaluation, you need to follow the instructions, including registration, file preparation, submission & evaluation, and result view. More details can be found on the challenge page on CodaLab.
 
+<b>Top teams will be required to provide their solutions to a challenge paper. The challenge paper will be included in the ICCV Workshop Proceedings.</b>
 
 <h2>Important Dates</h2>
 

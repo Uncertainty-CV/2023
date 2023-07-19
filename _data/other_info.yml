@@ -2,9 +2,9 @@ deadlines_challenge:
 
   - item: Competition server online
     date: Now
-
-  - item: Submission deadline
-    date: TBD
   
-  - item: Award decision announcement
-    date: TBD
+  - item: Challenge deadline
+    date: 11/08/2023
+
+  - item: Solution submission deadline
+    date: 18/08/2023
