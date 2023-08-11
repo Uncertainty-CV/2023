@@ -7,9 +7,14 @@ title: Accepted Papers
 # Accepted Full Papers 
 
 <ul>
-{% for item in site.data.papers  %}
+{% assign sortedPapers = site.data.papers | sort: 'title' %}
+{% for item in sortedPapers %}
 {% if item.type == "full" %}
-  <li><strong>{{ item.title }}</strong><br/>
+  <li><strong>{{ item.title }}</strong>
+  {% if item.oral %}
+  <em>(Oral)</em>
+  {% endif %}
+  <br/>
   <small><i>{{ item.authors }}</i></small></li>
 {% endif %}
 {% endfor %}
@@ -18,7 +23,7 @@ title: Accepted Papers
 # Accepted Extended Abstracts
 
 <ul>
-{% for item in site.data.papers  %}
+{% for item in sortedPapers %}
 {% if item.type == "abstract" %}
   <li><strong>{{ item.title }}</strong><br/>
   <small><i>{{ item.authors }}</i></small></li>

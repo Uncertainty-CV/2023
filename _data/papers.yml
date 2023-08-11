@@ -1,18 +1,22 @@
 - title: "Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection"
   authors: "Silvio Galesso, Max Argus, Thomas Brox"
   type: full
+  oral: true
 
 - title: "Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers"
   authors: "Aishwarya Venkataramanan, Assia Benbihi, Martin Laviale, Cédric Pradalier"
   type: full
+  oral: true
 
 - title: "Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression"
   authors: "Anton Baumann, Thomas Roßberg, Michael Schmitt"
   type: full
+  oral: true
 
 - title: "Calibrated Out-of-Distribution Detection with a Generic Representation"
   authors: "Tomas Vojir, Jan Sochman, Rahaf Aljundi, Jiri Matas "
   type: full
+  oral: true
 
 - title: "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport"
   authors: "Sk Aziz Ali, Djamila Aouada, Gerd Reis, Didier Stricker"
@@ -98,7 +102,7 @@
   authors: "Loïc Le Bescond, Maria Vakalopoulou, Stergios Christodoulidis, Fabrice André, Hugues Talbot"
   type: abstract
 
-- title: "XVO: Generalized Visual Odometry via Cross-Modal Self-Training - Extended Abstract"
+- title: "XVO: Generalized Visual Odometry via Cross-Modal Self-Training"
   authors: "Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar"
   type: abstract
 
