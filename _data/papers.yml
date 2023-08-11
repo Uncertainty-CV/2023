@@ -55,7 +55,53 @@
   type: full
 
 - title: "An Empirical Investigation of Pretrained Model Selection for Out-of-Distribution Generalization and Calibration"
-  authors: "Hiroki Naganuma, Ryuichiro Hataya "
+  authors: "Hiroki Naganuma, Ryuichiro Hataya"
   type: abstract
 
+- title: "On the Interplay of Curvature, Calibration and Out-of-Distribution Generalization: Insights from SAM and Focal Loss Analyses"
+  authors: "Hiroki Naganuma, Masanari Kimura"
+  type: abstract
 
+- title: "Beyond accuracy : confidence score calibration in deep-learning classification models for camera trap images and sequences"
+  authors: "Gaspard Dussert, Simon Chamailé-Jammes, Stéphane Dray, Vincent Miele"
+  type: abstract
+
+- title: "Two-Step Active Learning for Instance Segmentation with Uncertainty and Diversity Sampling"
+  authors: "Ke Yu, Stephen Albro, Giulia DeSalvo, Suraj Nandkishor Kothawade, Abdullah Rashwan, Sasan Tavakkol, kayhan Batmanghelich, Xiaoqi Yin"
+  type: abstract
+
+- title: "Tyche: Stochastic In-Context Learning Model for Medical Image Segmentation"
+  authors: "Marianne Rakic, Jose Javier Gonzalez Ortiz, Hallee E. Wong, Adrian V Dalca, John Guttag"
+  type: abstract
+
+- title: "AugCal: Improving Sim2Real Adaptation by Uncertainty Calibration on Augmented Synthetic Images"
+  authors: "Prithvijit Chattopadhyay, Bharat Goyal, Boglarka Ecsedi, Viraj Uday Prabhu, Judy Hoffman"
+  type: abstract
+
+- title: "Identifying Important Group of Pixels using Interactions"
+  authors: "Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera"
+  type: abstract
+
+- title: "Low-Quality Image Detection by Hierarchical VAE"
+  authors: "Tomoyasu Nanaumi, Kazuhiko Kawamoto, Hiroshi Kera"
+  type: abstract
+
+- title: "Adaptive Bounding Box Uncertainty via Conformal Prediction"
+  authors: "Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick"
+  type: abstract
+
+- title: "A comparison of Uncertainty Quantification methods for Earth Observation Image Regression data"
+  authors: "Nils Lehmann, Nina Maria Gottschling, Stefan Depeweg, Eric Nalisnick"
+  type: abstract
+
+- title: "On the detection of Out-Of-Distribution samples in Multiple Instance Learning"
+  authors: "Loïc Le Bescond, Maria Vakalopoulou, Stergios Christodoulidis, Fabrice André, Hugues Talbot"
+  type: abstract
+
+- title: "XVO: Generalized Visual Odometry via Cross-Modal Self-Training - Extended Abstract"
+  authors: "Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar"
+  type: abstract
+
+- title: "DAC: Detector-Agnostic Spatial Covariances for Deep Local Features"
+  authors: "Javier Tirado-Garín, Frederik Rahbæk Warburg, Javier Civera"
+  type: abstract
