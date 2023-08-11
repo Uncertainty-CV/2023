@@ -1,0 +1,61 @@
+- title: "Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection"
+  authors: "Silvio Galesso, Max Argus, Thomas Brox"
+  type: full
+
+- title: "Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers"
+  authors: "Aishwarya Venkataramanan, Assia Benbihi, Martin Laviale, Cédric Pradalier"
+  type: full
+
+- title: "Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression"
+  authors: "Anton Baumann, Thomas Roßberg, Michael Schmitt"
+  type: full
+
+- title: "Calibrated Out-of-Distribution Detection with a Generic Representation"
+  authors: "Tomas Vojir, Jan Sochman, Rahaf Aljundi, Jiri Matas "
+  type: full
+
+- title: "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport"
+  authors: "Sk Aziz Ali, Djamila Aouada, Gerd Reis, Didier Stricker"
+  type: full
+
+- title: "Dual-level Interaction for Domain Adaptive Semantic Segmentation"
+  authors: "Dongyu Yao, Boheng Li"
+  type: full
+
+- title: "Uncle-SLAM: Uncertainty Learning for Dense Neural SLAM"
+  authors: "Erik Sandström, Kevin Ta, Martin R. Oswald, Luc Van Gool"
+  type: full
+
+- title: "Distance matters for improving performance estimation under covariate shift"
+  authors: "Mélanie Roschewitz, Ben Glocker"
+  type: full
+
+- title: "Identifying Out-of-Domain Objects with Dirichlet Deep Neural Networks"
+  authors: "Ahmed Hammam, Frank Bonarens, Seyed Eghbal Ghobadi, Christoph Stiller"
+  type: full
+
+- title: "A Simple and Explainable Method for Uncertainty Estimation using Attribute Prototype Networks"
+  authors: "Claudius Zelenka, Andrea Göhring, Daniyal Kazempour, Maximilian Hünemörder, Lars Schmarje, Peer Kröger"
+  type: full
+
+- title: "Biased Class disagreement: detection of out of distribution instances by using differently biased semantic segmentation models."
+  authors: "Roberto Alcover-Couso, Juan C. SanMiguel, Marcos Escudero-Viñolo"
+  type: full
+
+- title: "Exploring Inlier and Outlier Specification for Improved Medical OOD Detection"
+  authors: "Vivek Narayanaswamy, Yamen Mubarka, Rushil Anirudh, Deepta Rajan, Jayaraman J. Thiagarajan"
+  type: full
+
+- title: "Adversarial Attacks Against Uncertainty Quantification"
+  authors: "Emanuele Ledda, Daniele Angioni, Giorgio Piras, Giorgio Fumera, Battista Biggio, Fabio Roli"
+  type: full
+
+- title: "A Unified Approach to Learning with Label Noise and Unsupervised Confidence Approximation"
+  authors: "Navid Rabbani, Adrien Bartoli"
+  type: full
+
+- title: "An Empirical Investigation of Pretrained Model Selection for Out-of-Distribution Generalization and Calibration"
+  authors: "Hiroki Naganuma, Ryuichiro Hataya "
+  type: abstract
+
+
