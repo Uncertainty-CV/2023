@@ -42,12 +42,11 @@ The workshop will happen in person at the Paris Convention Center, plenary room 
         <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>11:00 - 11:15</td>
-        <td>Contributed Talk: <i>Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression</i></td>
-    </tr>
-    <tr>
-        <td>11:15 - 11:30</td>
-        <td>Contributed Talk: <i>Calibrated Out-of-Distribution Detection with a Generic Representation</i></td>
+        <td>11:00 - 11:30</td>
+        <td>Contributed Talks:
+        <br> <small> <i>Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression</i> </small>
+        <br> <small> <i>Calibrated Out-of-Distribution Detection with a Generic Representation</i> </small>
+        </td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -70,12 +69,10 @@ The workshop will happen in person at the Paris Convention Center, plenary room 
         </td>
     </tr>
     <tr>
-        <td>14:30 - 14:45</td>
-        <td>Contributed Talk: <i>Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection</i></td>
-    </tr>
-    <tr>
-        <td>14:45 - 15:00</td>
-        <td>Contributed Talk: <i>Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers</i></td>
+        <td>14:30 - 15:00</td>
+        <td>Contributed Talks: 
+        <br> <small> <i>Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection</i> </small>
+        <br> <small> <i>Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers</i> </small>
     </tr>
     <tr>
         <td>15:00 - 15:20</td>
