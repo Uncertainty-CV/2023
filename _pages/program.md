@@ -4,10 +4,10 @@ permalink: /program/
 title: Program
 ---
 
+The workshop will happen in person at the Paris Convention Center, plenary room P01 on October 3rd!
 
-# TBD
 
-<!-- <table class="table table-striped">
+<table class="table table-striped">
     <thead>
     <tr>
         <th scope="col">Time</th>
@@ -20,41 +20,66 @@ title: Program
         <td>Welcome</td>
     </tr>
     <tr>
-        <td>9:10 - 9:45</td>
-        <td>Invited Talk by <strong><a href="https://www.cs.ox.ac.uk/people/yarin.gal/website">Yarin Gal</a></strong></td>
-    </tr>
-    <tr>
-        <td>9:45 - 10:15</td>
-        <td>Invited Talk by <strong><a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Yixuan Li</a></strong></td>
-    </tr>
-    <tr>
-        <td>10:15 - 10:45</td>
-        <td>Poster Session & Coffee Break</td>
-    </tr>
-    <tr>
-        <td>10:45 - 11:25</td>
-        <td>Contributed Talks 
-        <br/><small>1. Localization Uncertainty Estimation for Anchor-Free Object Detection</small>
-        <br/><small>2. Uncertainty Quantification using Query-Based Object Detectors</small>
-        <br/><small>3. Variational Depth Networks: Uncertainty-Aware Monocular Self-Supervised Depth Estimation</small>
-        <br/><small>4. Unsupervised Joint Image Transfer and Uncertainty Quantification using Patch Invariant Networks</small>
+        <td>9:10 - 9:40</td>
+        <td>Invited Talk by <strong><a href="https://enalisnick.github.io/">Eric Nalisnick</a></strong>
+        <br>Title: Towards Anytime Uncertainty Estimation in Early-Exit Neural Networks
         </td>
     </tr>
     <tr>
-        <td>11:25 - 12:00</td>
-        <td>Invited Talk by <strong><a href="https://alexgkendall.com/">Alex Kendall</a></strong></td>
+        <td>9:40 - 10:10</td>
+        <td>Invited Talk by <strong><a href="https://mysite.ku.edu.tr/fguney/">Fatma Guney</a></strong></td>
     </tr>
     <tr>
-        <td>12:00 - 12:10</td>
-        <td>Spotlights</td>
+        <td>10:10 - 10:40</td>
+        <td>Invited Talk by <strong><a href="https://janispostels.github.io/">Janis Postels</a></strong></td>
     </tr>
     <tr>
-        <td>12:10 - 12:20</td>
-        <td>Closing Remarks</td>
+        <td>10:40 - 11:00</td>
+        <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>12:20 - 13:00</td>
+        <td>11:00 - 11:15</td>
+        <td>Contributed Talk: <strong>Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression</strong></td>
+    </tr>
+    <tr>
+        <td>11:15 - 11:30</td>
+        <td>Contributed Talk: <strong>Calibrated Out-of-Distribution Detection with a Generic Representation</strong></td>
+    </tr>
+    <tr>
+        <td>11:30 - 12:30</td>
         <td>Poster Session</td>
     </tr>
+    <tr>
+        <td>12:30 - 13:30</td>
+        <td>Lunch Break</td>
+    </tr>
+    <tr>
+        <td>13:30 - 14:00</td>
+        <td>Invited Talk by <strong><a href="https://www.eml-unitue.de/people/zeynep-akata">Zeynep Akata</a></strong></td>
+    </tr>
+    <tr>
+        <td>14:00 - 14:30</td>
+        <td>Invited Talk by <strong><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></strong></td>
+    </tr>
+    <tr>
+        <td>14:30 - 14:45</td>
+        <td>Contributed Talk: <strong>Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection</strong></td>
+    </tr>
+    <tr>
+        <td>14:45 - 15:00</td>
+        <td>Contributed Talk: <strong>Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers</strong></td>
+    </tr>
+    <tr>
+        <td>15:00 - 15:20</td>
+        <td>MUAD Uncertainty Estimation for Semantic Segmentation Challenge</td>
+    </tr>
+    <tr>
+        <td>15:20 - 15:30</td>
+        <td>Closing remarks</td>
+    </tr>								
+	<tr>
+        <td>15:30 - 17:00</td>
+        <td>Coffee Break & Poster Session</td>
+    </tr>
     </tbody>
-</table> -->
+</table>
