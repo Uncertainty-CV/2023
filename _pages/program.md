@@ -44,8 +44,8 @@ The workshop will happen in person at the Paris Convention Center, plenary room 
     <tr>
         <td>11:00 - 11:30</td>
         <td>Contributed Talks:
-        <br> <small> <i>Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression</i> </small>
-        <br> <small> <i>Calibrated Out-of-Distribution Detection with a Generic Representation</i> </small>
+        <br> <small> <i>- Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression</i> </small>
+        <br> <small> <i>- Calibrated Out-of-Distribution Detection with a Generic Representation</i> </small>
         </td>
     </tr>
     <tr>
@@ -71,8 +71,9 @@ The workshop will happen in person at the Paris Convention Center, plenary room 
     <tr>
         <td>14:30 - 15:00</td>
         <td>Contributed Talks: 
-        <br> <small> <i>Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection</i> </small>
-        <br> <small> <i>Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers</i> </small>
+        <br> <small> <i>- Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection</i> </small>
+        <br> <small> <i>- Gaussian Latent Representations for Uncertainty Estimation using Mahalanobis Distance in Deep Classifiers</i> </small>
+        </td>
     </tr>
     <tr>
         <td>15:00 - 15:20</td>
