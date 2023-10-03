@@ -58,14 +58,14 @@ The workshop will happen in person at the Paris Convention Center, plenary room 
     </tr>
     <tr>
         <td>13:30 - 14:00</td>
-        <td>Invited Talk by <strong><a href="https://www.eml-unitue.de/people/zeynep-akata">Zeynep Akata</a></strong>
-        <br>Title: TBA
+        <td>Invited Talk by <strong><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></strong>
+        <br>Title: Directions in Anomaly Detection
         </td>
     </tr>
     <tr>
         <td>14:00 - 14:30</td>
-        <td>Invited Talk by <strong><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></strong>
-        <br>Title: TBA
+        <td>Invited Talk by <strong><a href="https://www.eml-unitue.de/people/zeynep-akata">Zeynep Akata</a></strong>
+        <br>Title: Post-Hoc Uncertainty and How to Communicate it
         </td>
     </tr>
     <tr>
