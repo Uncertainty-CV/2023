@@ -1,5 +1,5 @@
 
-baseurl: "https://uncv2023.github.io"
+baseurl: "https://uncertainty-cv.github.io/2023/"
 color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
 
 sass:
